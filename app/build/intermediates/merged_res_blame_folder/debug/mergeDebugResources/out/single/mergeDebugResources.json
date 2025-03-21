@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodreelappassignment.app-debug-41:/layout_fragment_bookmark.xml.flat",
+        "source": "com.example.foodreelappassignment.app-main-43:/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\menu_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\menu\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_bookmark_filled.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\bookmark_filled.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\layout_fragment_bookmark.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\layout\\fragment_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_bookmark_white.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\bookmark_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\layout_fragment_nearby.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\layout\\fragment_nearby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_baseline_add_to_photos_24.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\baseline_add_to_photos_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\layout_single_item_layout.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\layout\\single_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_nearme.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\nearme.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_bookmark_black.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\bookmark_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_baseline_adjust_24.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\baseline_adjust_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_baseline_add_to_home_screen_24.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\baseline_add_to_home_screen_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\raw_food_loading.json.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\raw\\food_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Aman\\.gradle\\daemon\\8.10.2\\com.example.foodreelappassignment.app-main-43:\\xml\\backup_rules.xml"
+    }
+]

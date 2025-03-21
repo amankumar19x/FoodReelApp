@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fff">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardUseCompatPadding="true"
+        app:cardElevation="3dp"
+        android:backgroundTint="#fff">
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <androidx.media3.ui.PlayerView
+                    android:id="@+id/player_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:use_controller="false"
+                    app:resize_mode="fixed_height"
+                    android:layout_above="@id/btnOrder"/>
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/bookmark_black"
+                    android:layout_alignParentRight="true"
+                    android:layout_margin="5dp"
+                    android:id="@+id/imgBookmarkIcon"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Salad Recipe"
+                    android:textStyle="bold"
+                    android:textSize="35dp"
+                    android:layout_margin="5dp"
+                    android:textColor="@color/white"
+                    android:id="@+id/txtFoodTitle"
+                    android:fontFamily="monospace"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Varanasi"
+                    android:textSize="20dp"
+                    android:layout_margin="5dp"
+                    android:id="@+id/txtFoodLocation"
+                    android:fontFamily="monospace"
+                    android:layout_below="@id/txtFoodTitle"
+                    android:textColor="@color/white"/>
+
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="crave and order"
+                    android:textAllCaps="true"
+                    android:textSize="28dp"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:fontFamily="monospace"
+                    android:layout_margin="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:id="@+id/btnOrder"
+                    android:backgroundTint="#EF3F08"
+                    />
+
+            </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

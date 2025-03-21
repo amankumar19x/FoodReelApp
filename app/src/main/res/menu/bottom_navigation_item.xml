@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_add_to_home_screen_24"/>
+    <item
+        android:id="@+id/nearme"
+        android:title="Nearby"
+        android:icon="@drawable/baseline_adjust_24"/>
+    <item
+        android:id="@+id/bookmark"
+        android:title="Bookmark"
+        android:icon="@drawable/bookmark_filled"/>
+
+</menu>
