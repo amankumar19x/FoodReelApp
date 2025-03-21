@@ -71,19 +71,5 @@ Food Reels Android App is a video-based food discovery application that autoplay
 - Improve **UI/UX with animations and transitions**.
 - Migrate bookmarks from **SharedPreferences** to **Room Database**.
 
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
 
----
-
-### 🎉 Contributions
-Contributions are welcome! Feel free to fork the repo, create issues, and submit PRs.
-
-### 🔗 Connect with Me
-- **LinkedIn:** [Your Profile](#)
-- **GitHub:** [Your Profile](#)
-
----
-
-⭐ **If you find this project useful, don't forget to star the repo!** ⭐
 
